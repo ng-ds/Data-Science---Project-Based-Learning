@@ -1,6 +1,6 @@
 # Data-Science---Project-Based-Learning
 ### This repository tries to give Project based learning approach for Data Science
-### Assuming you have knowledge of Python Prgramming, below are some usefule resources to learn Maths required for data science 
+### Assuming you have knowledge of Python Prgramming, below are some useful resources to learn Maths required for data science 
 
 for maths related to data science - https://www.khanacademy.org/math/statistics-probability
 
